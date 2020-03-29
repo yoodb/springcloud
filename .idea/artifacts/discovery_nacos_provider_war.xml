@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="discovery-nacos-provider:war">
+    <output-path>$PROJECT_DIR$/selection-cloud/cloud-discovery/discovery-nacos-provider/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>discovery-nacos-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="discovery-nacos-provider-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="discovery-nacos-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

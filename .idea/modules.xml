@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery-nacos-consumer-demo02/discovery-nacos-consumer-demo02.iml" filepath="$PROJECT_DIR$/discovery-nacos-consumer-demo02/discovery-nacos-consumer-demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-nacos-provider-demo01/discovery-nacos-provider-demo01.iml" filepath="$PROJECT_DIR$/discovery-nacos-provider-demo01/discovery-nacos-provider-demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>

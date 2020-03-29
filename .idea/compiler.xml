@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="discovery-nacos-provider-demo01" />
+        <module name="discovery-nacos-consumer-demo02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="akkad-base" target="1.8" />
+      <module name="akkad-cloud" target="1.8" />
+      <module name="akkad-springboot" target="1.8" />
+      <module name="base-persistence" target="1.8" />
+      <module name="base-utils" target="1.8" />
+      <module name="base-utils-non-db" target="1.8" />
+      <module name="cloud-config-nacos" target="1.8" />
+      <module name="cloud-discovery" target="1.8" />
+      <module name="cloud-gateway" target="1.8" />
+      <module name="config-nacos" target="1.8" />
+      <module name="discovery-nacos-consumer" target="1.8" />
+      <module name="discovery-nacos-consumer-demo02" target="1.8" />
+      <module name="discovery-nacos-provider" target="1.8" />
+      <module name="discovery-nacos-provider-demo01" target="1.8" />
+      <module name="dist-lock-mysql" target="1.8" />
+      <module name="dist-lock-redis" target="1.8" />
+      <module name="dist-lock-zookeeper" target="1.8" />
+      <module name="dist-trans-atomikos" target="1.8" />
+      <module name="es-footman" target="1.8" />
+      <module name="kafka-client" target="1.8" />
+      <module name="kafka-server" target="1.8" />
+      <module name="mq-kafka" target="1.8" />
+      <module name="nacos-discovery" target="1.8" />
+      <module name="persistence-domain" target="1.8" />
+      <module name="persistence-mybatis" target="1.8" />
+      <module name="selection-base" target="1.8" />
+      <module name="selection-cloud" target="1.8" />
+      <module name="selectionconform" target="1.8" />
+      <module name="springboot-config" target="1.8" />
+      <module name="springboot-dist-lock" target="1.8" />
+      <module name="springboot-dist-trans" target="1.8" />
+      <module name="springboot-elasticsearch" target="1.8" />
+      <module name="springboot-jwt" target="1.8" />
+      <module name="springboot-mq" target="1.8" />
+      <module name="springcloud" target="1.5" />
+      <module name="weathertop" target="1.8" />
+      <module name="weathertop-spring-boot-starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="base-persistence" options="-parameters" />
+      <module name="base-utils" options="-parameters" />
+      <module name="base-utils-non-db" options="-parameters" />
+      <module name="cloud-config-nacos" options="" />
+      <module name="config-nacos" options="-parameters" />
+      <module name="discovery-nacos-consumer" options="" />
+      <module name="discovery-nacos-consumer-demo02" options="-parameters" />
+      <module name="discovery-nacos-provider" options="" />
+      <module name="discovery-nacos-provider-demo01" options="-parameters" />
+      <module name="dist-lock-mysql" options="-parameters" />
+      <module name="dist-lock-redis" options="-parameters" />
+      <module name="dist-lock-zookeeper" options="-parameters" />
+      <module name="dist-trans-atomikos" options="-parameters" />
+      <module name="es-footman" options="-parameters" />
+      <module name="kafka-client" options="-parameters" />
+      <module name="kafka-server" options="-parameters" />
+      <module name="nacos-discovery" options="-parameters" />
+      <module name="persistence-domain" options="-parameters" />
+      <module name="persistence-mybatis" options="-parameters" />
+      <module name="selection-cloud" options="" />
+      <module name="springboot-jwt" options="-parameters" />
+      <module name="weathertop-spring-boot-starter" options="-parameters" />
+    </option>
+  </component>
+</project>

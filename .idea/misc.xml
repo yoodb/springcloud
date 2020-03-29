@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/selection-cloud/cloud-discovery/discovery-nacos-provider" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cloud-config-nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-discovery/discovery-nacos-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-discovery/discovery-nacos-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/selection-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/weathertop-master/pom.xml" />
+        <option value="$PROJECT_DIR$/selection-cloud/cloud-config-nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/selection-cloud/nacos-discovery-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-base/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-base/base-persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-base/base-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-base/base-utils-non-db/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-cloud/discovery-nacos-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/selectionconform/selection-cloud/discovery-nacos-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery-nacos-provider-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery-nacos-consumer-demo02/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/weathertop-master/akkad-base/base-persistence/persistence-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/weathertop-master/akkad-base/weathertop-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/weathertop-master/akkad-springboot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
